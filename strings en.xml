@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nama">Name</string>
+    <string name="nama_user">Username</string>
+    <string name="kata_sandi">Password</string>
+    <string name="ulangi_kata_sandi">Retype Password</string>
+    <string name="daftar">Signup</string>
+    <string name="masuk">Login</string>
+    <string name="hai">Hello</string>
+    <string name="selamat_datang">Wellcome</string>
+    <string name="nama_pengguna">Username</string>
+</resources>

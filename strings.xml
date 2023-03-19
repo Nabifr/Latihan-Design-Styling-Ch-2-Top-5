@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="nama">Nama</string>
+    <string name="nama_user">Nama User</string>
+    <string name="kata_sandi">Kata Sandi</string>
+    <string name="ulangi_kata_sandi">Ulangi Kata Sandi</string>
+    <string name="daftar">Daftar</string>
+    <string name="masuk">Masuk</string>
+    <string name="sign_up" translatable="false">Sign Up</string>
+    <string name="hai">Hai</string>
+    <string name="selamat_datang">Selamat Datang</string>
+    <string name="nama_pengguna">Nama Pengguna</string>
+    <string name="sign_in" translatable="false">Sign In</string>
+</resources>
